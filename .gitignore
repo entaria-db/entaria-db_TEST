@@ -6,3 +6,4 @@ Thumbs.db
 *.pem
 *.key
 node_modules/
+opt_known.json
